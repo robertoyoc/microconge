@@ -4,7 +4,7 @@ export default Controller.extend({
 	actions: {
 		sendEmail(){
 			window.swal({
-			  title: 'Escribe tu correo para enviarte información',
+			  title: 'Escribe tu correo añadirte a la lista de preventa',
 			  input: 'email',
 			  showCancelButton: true,
 			  confirmButtonText: 'Enviar',
